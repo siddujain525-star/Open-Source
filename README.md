@@ -1,8 +1,8 @@
 # oss-audit — The Open Source Audit (Git)
 
 **Course:** Open Source Software (OSS NGMC) 
-**Student:** Vaibhav Gupta
-**Registration Number:** 24BCE10961
+**Student:** siddharth jain
+**Registration Number:** 24MIM10220
 **Chosen Software:** Git — Distributed Version Control System 
 **License of Chosen Software:** GNU General Public License v2 (GPLv2)
 
